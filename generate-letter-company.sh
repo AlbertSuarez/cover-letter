@@ -3,7 +3,7 @@ NAME="$1"
 ADDRESS="$2"
 POSITION="$3"
 
-cp main.tex aux1.tex
+cp cover-letter-company.tex aux1.tex
 sed -i "s/Biene Company/$NAME/g" aux1.tex
 sed -i "s/Bienilandia/$ADDRESS/g" aux1.tex
 sed -i "s/Biene meme generator/$POSITION/g" aux1.tex
