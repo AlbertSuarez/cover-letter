@@ -1,5 +1,5 @@
 # Cover letter
-Cover letter template written in LaTeX
+Cover letter generator written in LaTeX
 
 ## Setup
 
